@@ -1,2 +1,2 @@
 # Implementation-of-KNN
-Implementation of KNN for prediction on given dataset.
+Implementation of KNN for prediction on given dataset using Python.
